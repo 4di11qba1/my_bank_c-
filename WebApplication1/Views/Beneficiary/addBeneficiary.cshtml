@@ -1,0 +1,148 @@
+﻿@using System.Text.Json;
+@{
+    var serializedModel = JsonSerializer.Serialize(Model);
+}
+<main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg ">
+    <!-- Navbar -->
+    <nav class="navbar navbar-main navbar-expand-lg px-0 mx-4 shadow-none border-radius-xl" id="navbarBlur" navbar-scroll="true">
+        <div class="container-fluid py-1 px-3">
+            <nav aria-label="breadcrumb">
+                <div class="d-flex justify-content-end align-items-center">
+                    <h6 class="font-weight-bolder mb-0" style="margin-top: 35%;">Add Beneficiary</h6>
+                </div>
+            </nav>
+
+        </div>
+    </nav>
+    <!-- End Navbar -->
+    <div class="container-fluid py-4">
+
+        <div class="row">
+            <div class="col-md-12 mt-2">
+                <div class="card">
+                    <div class="card-header pb-0 px-3">
+                        <h6 class="mb-0">Add Beneficiaries</h6>
+                    </div>
+                    <div class="card-body pt-4 p-3">
+                        <div class="card z-index-0">
+                            <div class="card-body">
+                                <form role="form text-left">
+                                    <div class="row" id="beneficiaryRow">
+                                        <div class="col-md-12 mb-3">
+                                            <input type="text" id="accID" class="form-control" placeholder="Enter Beneficiary Account No" aria-label="Account" aria-describedby="name-addon">
+                                        </div>
+                                        <div class="text-center">
+                                            <button class="btn bg-gradient-dark w-100 my-4 mb-2" id="checkButton">Check Beneficiary</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="footer pt-3  ">
+            <div class="container-fluid">
+                <div class="row align-items-center justify-content-lg-between">
+                    <div class="col-lg-6 mb-lg-0 mb-4">
+                        <div class="copyright text-center text-sm text-muted text-lg-start">
+                            ©
+                            <script>document.write(new Date().getFullYear())</script>,
+                            made with <i class="fa fa-heart"></i> by
+                            <a href="https://www.creative-tim.com" class="font-weight-bold" target="_blank">Creative Tim</a>
+                            for a better web.
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul class="nav nav-footer justify-content-center justify-content-lg-end">
+                            <li class="nav-item">
+                                <a href="https://www.creative-tim.com" class="nav-link text-muted" target="_blank">Creative Tim</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://www.creative-tim.com/presentation" class="nav-link text-muted" target="_blank">About Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://www.creative-tim.com/blog" class="nav-link text-muted" target="_blank">Blog</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://www.creative-tim.com/license" class="nav-link pe-0 text-muted" target="_blank">License</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</main>
+
+<script>
+    var backendData = @Html.Raw(serializedModel);
+    console.log(backendData);
+    var selected = null;
+
+    function checkBeneficiary(event) {
+        event.preventDefault();
+        var accField = document.getElementById("accID");
+        var acc = accField.value;
+        var formRow = document.getElementById("beneficiaryRow");
+
+        for (var i = 0; i < backendData.length; i++) {
+            if (parseFloat(backendData[i][3]) === parseFloat(acc)) {
+                selected = backendData[i][3];
+                var innerHTML = `
+                    <div class="col-md-12 mb-3">
+                    <label>Account No</label>
+                        <input type="text" class="form-control" value="${backendData[i][3]}" aria-label="Account" aria-describedby="accNo-addon" readonly>
+                    </div>
+                    <div class="col-md-12 mb-3">
+                    <label>Name</label>
+                      <input type="text" class="form-control" value="${backendData[i][0]}" aria-label="Account" aria-describedby="name-addon" readonly>
+                    </div>
+                    <div class="col-md-12 mb-3">
+                    <label>Address</label>
+                      <input type="text" class="form-control" value="${backendData[i][1]}" aria-label="Account" aria-describedby="address-addon" readonly>
+                    </div>
+                    <div class="col-md-12 mb-3">
+                    <label>Email</label>
+                      <input type="text" class="form-control" value="${backendData[i][2]}" aria-label="Account" aria-describedby="email-addon" readonly>
+                    </div>
+                    <div class="text-center">
+                        <button class="btn bg-gradient-dark w-100 my-4 mb-2" id="addButton">Add Beneficiary</button>
+                    </div>
+                `;
+
+                formRow.innerHTML = innerHTML;
+                const addButton = document.getElementById("addButton");
+                addButton.addEventListener("click", addBeneficiary);
+                break;
+            }
+        }
+    }
+
+    function addBeneficiary(event) {
+        event.preventDefault();
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/Beneficiary/AddBeneficiary', true); // Modify the URL according to your MVC setup
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                    // Redirect to the Index page
+                    window.location.href = '/Beneficiary/Index'; // Replace 'Controller' with the appropriate controller name
+                } else {
+                    // Handle any errors or display a message
+                    console.log('Error:', xhr.status);
+                }
+            }
+        };
+
+        xhr.send(JSON.stringify(selected));
+    }
+
+    const checkButton = document.getElementById("checkButton");
+    checkButton.addEventListener("click", checkBeneficiary);
+
+    document.getElementById('beneficiaryActivation').classList.add('active');
+</script>

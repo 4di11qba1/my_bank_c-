@@ -1,0 +1,101 @@
+﻿@using System.Text.Json;
+@{
+    // Serialize the List<Balance> model into a JavaScript array
+    var serializedModel = JsonSerializer.Serialize(Model);
+}
+
+<div class="row my-4">
+    <div class="col-lg-12 col-md-6 mb-md-0 mb-4">
+        <div class="card">
+            <div class="card-header pb-0">
+                <div class="row">
+                    <div class="col-lg-6 col-7">
+                        <h6>Transactions Overview</h6>
+                        <p class="text-sm mb-0">
+                            <i class="fa fa-check text-info" aria-hidden="true"></i>
+                            <span class="font-weight-bold ms-1">30 done</span> this month
+                        </p>
+                    </div>
+                    <div class="col-lg-6 col-5 my-auto text-end">
+                        <a class="dropdown-item border-radius-md" href="@Url.Action(" Transactions", "Payments" )">View All</a>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body px-0 pb-2">
+                <div class="table-responsive">
+                    <table class="table align-items-center mb-0" id="allTransactionsTable">
+                        <thead>
+                            <tr>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Sender Name</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Sender Acc No</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Reciever Name</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Reciever Acc No</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Amount</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Type</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Date</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+        var modelArray = @Html.Raw(serializedModel); // Deserialize the serialized model array
+        var transactions = modelArray[2]; // Retrieve the transaction data
+        var monthNames = [
+            "January", "February", "March", "April", "May", "June",
+            "July", "August", "September", "October", "November", "December"
+        ];
+
+        const table = document.getElementById('allTransactionsTable'); // Replace 'your-table-id' with the actual ID of your table or tbody element
+
+        transactions.forEach((transaction) => {
+            // Create the table row element
+            const row = document.createElement('tr');
+
+            // Create and populate the cells with transaction data
+            const senderNameCell = createTableCell(transaction[0]);
+            row.appendChild(senderNameCell);
+
+            const senderAccountIdCell = createTableCell(transaction[1]);
+            row.appendChild(senderAccountIdCell);
+
+            const receiverNameCell = createTableCell(transaction[2]);
+            row.appendChild(receiverNameCell);
+
+            const receiverAccountIdCell = createTableCell(transaction[3]);
+            row.appendChild(receiverAccountIdCell);
+
+            const amountCell = createTableCell(transaction[4]);
+            row.appendChild(amountCell);
+
+            const typeCell = createTableCell(transaction[5]);
+            row.appendChild(typeCell);
+
+            const dateCell = createTableCell(transaction[6]);
+            row.appendChild(dateCell);
+
+            // Append the row to the table or tbody element
+            table.appendChild(row);
+        });
+
+        // Function to create a table cell and populate it with data
+        function createTableCell(data) {
+            const cell = document.createElement('td');
+            const cellContent = document.createElement('div');
+            cellContent.className = 'd-flex px-2 py-2';
+            const cellData = document.createElement('div');
+            cellData.className = 'd-flex flex-column';
+            const cellText = document.createElement('h6');
+            cellText.className = 'mb-0 text-sm';
+            cellText.textContent = data;
+
+            cellData.appendChild(cellText);
+            cellContent.appendChild(cellData);
+            cell.appendChild(cellContent);
+
+            return cell;
+        }
+</script>

@@ -1,0 +1,1389 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/apple-icon.png",
+      "PackagePath": "staticwebassets/Content/Images/apple-icon.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/background.jpg",
+      "PackagePath": "staticwebassets/Content/Images/background.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/bg1.jpg",
+      "PackagePath": "staticwebassets/Content/Images/bg1.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/bruce-mars.jpg",
+      "PackagePath": "staticwebassets/Content/Images/bruce-mars.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved-10.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved-10.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved-11.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved-11.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved-6.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved-6.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved-8.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved-8.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved0.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved0.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved1.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved1.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved10.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved10.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved11-small.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved11-small.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved11.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved11.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved12.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved12.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved13.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved13.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved14.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved14.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved19.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved19.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved2.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved2.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved21.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved21.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved3.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved3.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved4.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved4.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved5-small.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved5-small.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved5.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved5.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved6-small.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved6-small.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved6.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved6.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved7.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved7.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved8.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved8.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/curved9.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/curved9.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/curved-images/white-curved.jpg",
+      "PackagePath": "staticwebassets/Content/Images/curved-images/white-curved.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/down-arrow-dark.svg",
+      "PackagePath": "staticwebassets/Content/Images/down-arrow-dark.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/down-arrow-white.svg",
+      "PackagePath": "staticwebassets/Content/Images/down-arrow-white.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/down-arrow.svg",
+      "PackagePath": "staticwebassets/Content/Images/down-arrow.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/favicon.png",
+      "PackagePath": "staticwebassets/Content/Images/favicon.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/home-decor-1.jpg",
+      "PackagePath": "staticwebassets/Content/Images/home-decor-1.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/home-decor-2.jpg",
+      "PackagePath": "staticwebassets/Content/Images/home-decor-2.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/home-decor-3.jpg",
+      "PackagePath": "staticwebassets/Content/Images/home-decor-3.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/illustrations/rocket-dark.png",
+      "PackagePath": "staticwebassets/Content/Images/illustrations/rocket-dark.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/illustrations/rocket-white.png",
+      "PackagePath": "staticwebassets/Content/Images/illustrations/rocket-white.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/ivana-square.jpg",
+      "PackagePath": "staticwebassets/Content/Images/ivana-square.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/ivancik.jpg",
+      "PackagePath": "staticwebassets/Content/Images/ivancik.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets/Content/Images/kal-visuals-square.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/logo-ct-dark.png",
+      "PackagePath": "staticwebassets/Content/Images/logo-ct-dark.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/logo-ct.png",
+      "PackagePath": "staticwebassets/Content/Images/logo-ct.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/logos/mastercard.png",
+      "PackagePath": "staticwebassets/Content/Images/logos/mastercard.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/logos/visa.png",
+      "PackagePath": "staticwebassets/Content/Images/logos/visa.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/marie.jpg",
+      "PackagePath": "staticwebassets/Content/Images/marie.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/shapes/pattern-lines.svg",
+      "PackagePath": "staticwebassets/Content/Images/shapes/pattern-lines.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/shapes/shape-1.svg",
+      "PackagePath": "staticwebassets/Content/Images/shapes/shape-1.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/shapes/shape-2.svg",
+      "PackagePath": "staticwebassets/Content/Images/shapes/shape-2.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/shapes/shape-3.svg",
+      "PackagePath": "staticwebassets/Content/Images/shapes/shape-3.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/shapes/wave-down.svg",
+      "PackagePath": "staticwebassets/Content/Images/shapes/wave-down.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/shapes/wave-up.svg",
+      "PackagePath": "staticwebassets/Content/Images/shapes/wave-up.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/shapes/waves-gray.svg",
+      "PackagePath": "staticwebassets/Content/Images/shapes/waves-gray.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/shapes/waves-white.svg",
+      "PackagePath": "staticwebassets/Content/Images/shapes/waves-white.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/small-logos/icon-sun-cloud.png",
+      "PackagePath": "staticwebassets/Content/Images/small-logos/icon-sun-cloud.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/small-logos/logo-atlassian.svg",
+      "PackagePath": "staticwebassets/Content/Images/small-logos/logo-atlassian.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/small-logos/logo-invision.svg",
+      "PackagePath": "staticwebassets/Content/Images/small-logos/logo-invision.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/small-logos/logo-jira.svg",
+      "PackagePath": "staticwebassets/Content/Images/small-logos/logo-jira.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/small-logos/logo-slack.svg",
+      "PackagePath": "staticwebassets/Content/Images/small-logos/logo-slack.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/small-logos/logo-spotify.svg",
+      "PackagePath": "staticwebassets/Content/Images/small-logos/logo-spotify.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/small-logos/logo-webdev.svg",
+      "PackagePath": "staticwebassets/Content/Images/small-logos/logo-webdev.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/small-logos/logo-xd.svg",
+      "PackagePath": "staticwebassets/Content/Images/small-logos/logo-xd.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/team-1.jpg",
+      "PackagePath": "staticwebassets/Content/Images/team-1.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/team-2.jpg",
+      "PackagePath": "staticwebassets/Content/Images/team-2.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/team-3.jpg",
+      "PackagePath": "staticwebassets/Content/Images/team-3.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/team-4.jpg",
+      "PackagePath": "staticwebassets/Content/Images/team-4.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/angular.jpg",
+      "PackagePath": "staticwebassets/Content/Images/theme/angular.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/bootstrap.jpg",
+      "PackagePath": "staticwebassets/Content/Images/theme/bootstrap.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/dribbble.png",
+      "PackagePath": "staticwebassets/Content/Images/theme/dribbble.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/dropbox.png",
+      "PackagePath": "staticwebassets/Content/Images/theme/dropbox.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/mastercard.png",
+      "PackagePath": "staticwebassets/Content/Images/theme/mastercard.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/paypal.png",
+      "PackagePath": "staticwebassets/Content/Images/theme/paypal.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/react.jpg",
+      "PackagePath": "staticwebassets/Content/Images/theme/react.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/sketch.jpg",
+      "PackagePath": "staticwebassets/Content/Images/theme/sketch.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/slack.png",
+      "PackagePath": "staticwebassets/Content/Images/theme/slack.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/spotify.jpeg",
+      "PackagePath": "staticwebassets/Content/Images/theme/spotify.jpeg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/tim.png",
+      "PackagePath": "staticwebassets/Content/Images/theme/tim.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/unass.jpg",
+      "PackagePath": "staticwebassets/Content/Images/theme/unass.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/visa.png",
+      "PackagePath": "staticwebassets/Content/Images/theme/visa.png"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/theme/vue.jpg",
+      "PackagePath": "staticwebassets/Content/Images/theme/vue.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/Content/Images/vr-bg.jpg",
+      "PackagePath": "staticwebassets/Content/Images/vr-bg.jpg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/css/nucleo-icons.css",
+      "PackagePath": "staticwebassets/css/nucleo-icons.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/css/nucleo-svg.css",
+      "PackagePath": "staticwebassets/css/nucleo-svg.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/css/soft-ui-dashboard.css",
+      "PackagePath": "staticwebassets/css/soft-ui-dashboard.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/css/soft-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets/css/soft-ui-dashboard.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/css/soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets/css/soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/nucleo-icons.eot",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.eot"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/nucleo-icons.svg",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.svg"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/nucleo-icons.ttf",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.ttf"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/nucleo-icons.woff",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.woff"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/nucleo-icons.woff2",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.woff2"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/nucleo.eot",
+      "PackagePath": "staticwebassets/fonts/nucleo.eot"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/nucleo.ttf",
+      "PackagePath": "staticwebassets/fonts/nucleo.ttf"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/nucleo.woff",
+      "PackagePath": "staticwebassets/fonts/nucleo.woff"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/nucleo.woff2",
+      "PackagePath": "staticwebassets/fonts/nucleo.woff2"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/fonts/opensans.ttf",
+      "PackagePath": "staticwebassets/fonts/opensans.ttf"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/.DS_Store",
+      "PackagePath": "staticwebassets/js/.DS_Store"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/42d5adcbca.js",
+      "PackagePath": "staticwebassets/js/42d5adcbca.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/buttons.js",
+      "PackagePath": "staticwebassets/js/buttons.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/chat.js",
+      "PackagePath": "staticwebassets/js/chat.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/core/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/core/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/core/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/core/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/core/popper.min.js",
+      "PackagePath": "staticwebassets/js/core/popper.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/plugins/Chart.extension.js",
+      "PackagePath": "staticwebassets/js/plugins/Chart.extension.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/plugins/bootstrap-notify.js",
+      "PackagePath": "staticwebassets/js/plugins/bootstrap-notify.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/plugins/chartjs.min.js",
+      "PackagePath": "staticwebassets/js/plugins/chartjs.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/plugins/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/js/plugins/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/plugins/smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets/js/plugins/smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/signalr/dist/browser/signalr.js",
+      "PackagePath": "staticwebassets/js/signalr/dist/browser/signalr.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/signalr/dist/browser/signalr.min.js",
+      "PackagePath": "staticwebassets/js/signalr/dist/browser/signalr.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/soft-ui-dashboard.js",
+      "PackagePath": "staticwebassets/js/soft-ui-dashboard.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/soft-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets/js/soft-ui-dashboard.js.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/js/soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets/js/soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_alert.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_alert.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_avatars.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_avatars.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_badge.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_badge.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_breadcrumbs.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_buttons.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_cards.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_cards.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_dark-version.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_dropup.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_dropup.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_footer.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_footer.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_forms.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_forms.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_gradients.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_header.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_header.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_info-areas.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_misc.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_misc.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_nav.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_nav.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_navbar.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_pagination.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_popovers.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_popovers.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_progress.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_progress.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_rtl.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_rtl.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_social-buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_tables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_tables.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_tilt.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_tilt.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_timeline.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_timeline.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_tooltips.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_tooltips.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_typography.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_typography.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_utilities.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/_variables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_variables.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_accordion.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_containers.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_helpers.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_maps.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_maps.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_offcanvas.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_placeholders.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_placeholders.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_color-bg.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_color-bg.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_stacks.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_vr.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_backdrop.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_banner.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_banner.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/cards/card-background.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/cards/card-background.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/custom/_styles.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/custom/_styles.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/custom/_variables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/custom/_variables.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/forms/_form-switch.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/forms/_forms.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_forms.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/forms/_inputs.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_inputs.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/mixins/_colored-shadows.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/_colored-shadows.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/mixins/_container.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/_hover.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/mixins/_social-buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/mixins/mixins.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/mixins.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/plugins/free/_flatpickr.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/_flatpickr.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/plugins/free/_nouislider.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/_nouislider.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/plugins/free/_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/plugins/free/_prism.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/_prism.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/plugins/free/plugins.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/plugins.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/theme.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/theme.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_animations.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_animations.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_avatars.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_avatars.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_badge.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_badge.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_cards-extend.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_cards-extend.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_cards.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_cards.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_choices.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_choices.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_dark-version.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_dropdowns.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_dropdowns.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_form-switch.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_full-calendar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_full-calendar.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_header.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_header.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_info-areas.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_misc-extend.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_misc-extend.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_misc.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_misc.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_navbar.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_pagination.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_rtl.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_rtl.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_social-buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_table.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_table.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_timeline.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_timeline.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_utilities.scss"
+    },
+    {
+      "Id": "/Users/tiger/Desktop/MEGA/C#/MyBank/WebApplication1/wwwroot/scss/soft-ui-dashboard/variables/_virtual-reality.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_virtual-reality.scss"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

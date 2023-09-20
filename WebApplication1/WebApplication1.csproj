@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\beneficiary.cshtml" />
+    <Content Remove="Views\dashboard.cshtml" />
+    <Content Remove="Views\payments.cshtml" />
+    <Content Remove="Views\profile.cshtml" />
+    <Content Remove="Views\sign-in.cshtml" />
+    <Content Remove="Views\sign-up.cshtml" />
+    <Content Remove="Views\transactions.cshtml" />
+    <Content Remove="Views\Shared\Components\TransactionsTable\Default.cshtml" />
+    <Content Remove="Views\Shared\Components\TransactionsSummary\Default.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Components\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\AllTransactionsTable\" />
+    <None Remove="Views\Shared\Components\TransactionsSummary\" />
+    <None Remove="Converter\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Views\Beneficiary\beneficiary.cshtml" />
+    <None Include="Views\User\dashboard.cshtml" />
+    <None Include="Views\Payments\payments.cshtml" />
+    <None Include="Views\User\profile.cshtml" />
+    <None Include="Views\Home\sign-in.cshtml" />
+    <None Include="Views\Home\sign-up.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Components\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\AllTransactionsTable\" />
+    <Folder Include="Views\Shared\Components\TransactionsSummary\" />
+    <Folder Include="Converter\" />
+  </ItemGroup>
+</Project>

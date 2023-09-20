@@ -1,0 +1,52 @@
+CREATE TABLE [dbo].[User] (
+    [Id]       INT          IDENTITY (1, 1) NOT NULL,
+    [name]     VARCHAR (30) NULL,
+    [email]    VARCHAR (25) NULL,
+    [CNIC]     VARCHAR (15) NULL,
+    [password] VARCHAR (50) NULL,
+    [phone]    VARCHAR (20) NULL,
+    [address]  VARCHAR (50) NULL,
+    [city]     VARCHAR (20) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+
+
+CREATE TABLE [dbo].[Beneficiary] (
+    [ID]        INT IDENTITY (1, 1) NOT NULL,
+    [accountID] INT NULL,
+    [userID]    INT NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC),
+    CONSTRAINT [FK_Beneficiary_Account] FOREIGN KEY ([accountID]) REFERENCES [dbo].[Account] ([ID]),
+    CONSTRAINT [FK_Beneficiary_User] FOREIGN KEY ([userID]) REFERENCES [dbo].[User] ([Id])
+);
+
+
+
+CREATE TABLE [dbo].[Transaction] (
+    [ID]         INT             IDENTITY (1, 1) NOT NULL,
+    [accountID]  DECIMAL (18, 0) NULL,
+    [amount]     DECIMAL (18, 5) NULL,
+    [type]       VARCHAR (20)    NULL,
+    [timeStamp]  DATETIME        NULL,
+    [senderID]   DECIMAL (18, 0) NULL,
+    [recieverID] DECIMAL (18, 0) NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC),
+    CONSTRAINT [FK_Transaction_Account] FOREIGN KEY ([accountID]) REFERENCES [dbo].[Account] ([ID]),
+    CONSTRAINT [FK_Transaction_SenderAccount] FOREIGN KEY ([senderID]) REFERENCES [dbo].[Account] ([ID]),
+    CONSTRAINT [FK_Transaction_RecieverAccount] FOREIGN KEY ([recieverID]) REFERENCES [dbo].[Account] ([ID])
+);
+
+
+CREATE TABLE [dbo].[Account] (
+    [ID]        INT             IDENTITY (1, 1) NOT NULL,
+    [accountID] DECIMAL (18, 0)    	NULL,
+    [amount]    DECIMAL (18, 5)    	NULL,
+    [type]      VARCHAR (15) 		NULL,
+    [timeStamp] DATETIME             	NULL,
+    [createdAt] DATETIME        	NULL,
+    [updatedAt] DATETIME        	NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC),
+    CONSTRAINT [FK_Account_User] FOREIGN KEY ([timeStamp]) REFERENCES [dbo].[User] ([Id])
+);

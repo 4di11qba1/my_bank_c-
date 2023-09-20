@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = /Volumes/Data/MEGA/C#/MyBank/WebApplication1/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Volumes/Data/MEGA/C#/MyBank/WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Beneficiary/addBeneficiary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmVuZWZpY2lhcnkvYWRkQmVuZWZpY2lhcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Beneficiary/beneficiary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmVuZWZpY2lhcnkvYmVuZWZpY2lhcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Home/sign-in.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zaWduLWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Home/sign-up.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zaWduLXVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Payments/payments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudHMvcGF5bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Payments/transferToBeneficiary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudHMvdHJhbnNmZXJUb0JlbmVmaWNpYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Payments/transferToNonBeneficiary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudHMvdHJhbnNmZXJUb05vbkJlbmVmaWNpYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/Components/AllTransactionsTable/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQWxsVHJhbnNhY3Rpb25zVGFibGUvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/Components/BalanceCard/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQmFsYW5jZUNhcmQvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/Components/CreditCard/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ3JlZGl0Q2FyZC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/Components/DebitCard/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvRGViaXRDYXJkL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/Components/NetCard/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTmV0Q2FyZC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/Partials/_BalanceCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19CYWxhbmNlQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/Partials/_CreditCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19DcmVkaXRDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/Partials/_DebitCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19EZWJpdENhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/Partials/_NetCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19OZXRDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/User/dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9kYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/User/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9wcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Volumes/Data/MEGA/C\#/MyBank/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
